@@ -1,14 +1,14 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <h1><b>SmartPocket Budget App</b></h1>
+  <h1><b>Hello World</b></h1>
 </div>
 
 <!-- TABLE OF CONTENTS -->
 
 ## 📗 Table of Contents
 
-- [📖 Budget-App ](#-budget-app)
+- [📖 Hello-World ](#-hello-world)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -27,9 +27,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 SmartPocket Budget <a name="about-project"></a>
+# 📖 Hello World <a name="about-project"></a>
 
-A budget app named **SmartPocket Budget** keeps track of all your expenses associated with categories. 
+An app that shows a simple greeting called as **Hello World**. It is done with Rails and React.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -48,7 +48,8 @@ A budget app named **SmartPocket Budget** keeps track of all your expenses assoc
   <summary>Server</summary>
   <ul>
     <li><a href="https://www.ruby-lang.org/en/">Ruby</a></li>
-    <li><a href="https://rubyonrails.org/">Ruby on Rails</a></li>
+    <li><a href="https://rubyonrails.org/">Rails</a></li>
+    <li><a href="https://react.dev/">React</a></li>
   </ul>
 </details>
 
@@ -64,18 +65,13 @@ A budget app named **SmartPocket Budget** keeps track of all your expenses assoc
 
 The main features include:
 
-- Create new transactions to track your expenses.
-- Update or delete existing transactions.
-- Create new categories to classify your expenses by category.
-- View the calculated total amount of expenses per category.
-- Update or delete existing categories.
+- A simple greeting message
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- The Live Demo is available [here](https://moyen-budget.onrender.com/)
-- Video of the app is available [here](https://www.loom.com/share/1d91c95ca961496cb673ad326cb1859f)
+- Not available at this moment.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -98,7 +94,7 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 ```bash
-  git clone https://github.com/katarighe/budget-app
+  git clone https://github.com/katarighe/hello-world-react-rails
 ```
 
 ### Install
@@ -106,7 +102,7 @@ Clone this repository to your desired folder:
 Install this project with:
 
 ```bash
-  cd budget-app
+  cd hello-world-react-rails
   bundle install
 ```
 
@@ -145,13 +141,11 @@ to run tests:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-Here are some future features that could be added to the Budget app in the future.
+Here are some future features that could be added to the Hello World app in the future.
 
-- **Add Transactions & Animations**
-- **Introduce a Desktop version**
 - **Improve the overall UX / UI design**
 
-These are just a few ideas for future features that could be added to the Budget app. 
+These are just a few ideas for future features that could be added to the Hello World app. 
 
 The specific features that are added will depend on the needs and wants of the users.
 
@@ -163,7 +157,7 @@ The specific features that are added will depend on the needs and wants of the u
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/katarighe/budget-app/issues).
+Feel free to check the [issues page](https://github.com/katarighe/hello-world-react-rails/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -181,8 +175,6 @@ Give a star⭐️ or a thumbs up 👍 if you like this project! You can visit my
 
 - Project supervised by [Microverse](https://www.microverse.org/)
 - [Creative Commons 4.0 License](https://creativecommons.org/licenses/by-nc/4.0/)
-- Original design theme is by [Gregoire Vella on Behance](https://www.behance.net/gregoirevella)
-- [Link to the original design theme](https://www.behance.net/gallery/19759151/Snapscan-iOs-design-and-branding) by Gregoire Vella
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
